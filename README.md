@@ -8,6 +8,7 @@ The analysis employs **Gamma Regression** from the Generalized Linear Model (GLM
 supported by diagnostic checks, graphical insights, and efficiency benchmarking.
 
 _**Key Features:**___
+
 1.**Sector-Wise Comparison**: Evaluates performance differences between public, private, and small finance banks.
 
 2.**Exploratory Data Analysis (EDA)**: Includes pie charts, bar charts, boxplots, and scatterplots for visual insight.
