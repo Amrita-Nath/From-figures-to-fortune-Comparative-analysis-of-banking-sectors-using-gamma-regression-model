@@ -9,9 +9,13 @@ supported by diagnostic checks, graphical insights, and efficiency benchmarking.
 
 _**Key Features:**___
 1.**Sector-Wise Comparison**: Evaluates performance differences between public, private, and small finance banks.
+
 2.**Exploratory Data Analysis (EDA)**: Includes pie charts, bar charts, boxplots, and scatterplots for visual insight.
+
 3.**Statistical Modeling**:Uses Gamma Regression to model Net Profit.Handles skewness using the log-link function.Tests for multicollinearity through GVIF.
+
 4.**Profitability Insights**: Identifies top profit-making banks and correlating factors.
+
 5.**Efficiency Study**: Computes efficiency ratio to highlight cost performance differences.
 
 **Conclusion**__
